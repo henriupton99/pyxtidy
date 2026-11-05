@@ -1,2 +1,8 @@
 __pycache__
 *.ipynb
+.venv/
+# resource forks créés par macOS sur les volumes non-HFS
+._*
+.DS_Store
+# dossier de travail de pyxtidy (manifeste + rapports) s'il est versionné par erreur
+_pyxtidy/
